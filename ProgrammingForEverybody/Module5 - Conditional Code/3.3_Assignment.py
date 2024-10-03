@@ -7,7 +7,7 @@
 # < 0.6 F
 # If the user enters a value out of range, print a suitable error message and exit. For the test, enter a score of 0.85.
 
-#print("Hello! Let me know your score and I say your grade")
+print("Hello! Let me know your score and I'll say your grade")
 
 try :
     score = float(input())
